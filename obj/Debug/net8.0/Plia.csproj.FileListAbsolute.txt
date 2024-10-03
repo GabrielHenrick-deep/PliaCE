@@ -1,0 +1,14 @@
+C:\Users\gabri\Documents\PLIA-PROJ\Plia\bin\Debug\net8.0\Plia.exe
+C:\Users\gabri\Documents\PLIA-PROJ\Plia\bin\Debug\net8.0\Plia.deps.json
+C:\Users\gabri\Documents\PLIA-PROJ\Plia\bin\Debug\net8.0\Plia.runtimeconfig.json
+C:\Users\gabri\Documents\PLIA-PROJ\Plia\bin\Debug\net8.0\Plia.dll
+C:\Users\gabri\Documents\PLIA-PROJ\Plia\bin\Debug\net8.0\Plia.pdb
+C:\Users\gabri\Documents\PLIA-PROJ\Plia\obj\Debug\net8.0\Plia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\PLIA-PROJ\Plia\obj\Debug\net8.0\Plia.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\PLIA-PROJ\Plia\obj\Debug\net8.0\Plia.AssemblyInfo.cs
+C:\Users\gabri\Documents\PLIA-PROJ\Plia\obj\Debug\net8.0\Plia.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\PLIA-PROJ\Plia\obj\Debug\net8.0\Plia.dll
+C:\Users\gabri\Documents\PLIA-PROJ\Plia\obj\Debug\net8.0\refint\Plia.dll
+C:\Users\gabri\Documents\PLIA-PROJ\Plia\obj\Debug\net8.0\Plia.pdb
+C:\Users\gabri\Documents\PLIA-PROJ\Plia\obj\Debug\net8.0\Plia.genruntimeconfig.cache
+C:\Users\gabri\Documents\PLIA-PROJ\Plia\obj\Debug\net8.0\ref\Plia.dll
